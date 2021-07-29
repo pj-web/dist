@@ -433,7 +433,7 @@ details > summary {
   content: "";
   width: 40px;
   height: 26px;
-  background-image: url(../icons/icons.svg#quotes);
+  background-image: url(../icons/quotes.svg);
   background-repeat: no-repeat;
   top: 30px;
   left: 40px;
@@ -447,7 +447,7 @@ details > summary {
   content: "";
   width: 40px;
   height: 26px;
-  background-image: url(../icons/icons.svg#quotes);
+  background-image: url(../icons/quotes.svg);
   background-repeat: no-repeat;
   top: 30px;
   right: 40px;
@@ -1007,16 +1007,16 @@ details > summary {
   .third__stability-text::before {
     top: -12px;
     left: 135px;
-    background-image: url(../icons/icons.svg#quotes-green);
+    background-image: url(../icons/quotes-green.svg);
     -webkit-transform: rotate(0deg);
         -ms-transform: rotate(0deg);
             transform: rotate(0deg);
   }
 
   .third__stability-text::after {
-    top: 210px;
+    top: 85%;
     right: 60px;
-    background-image: url(../icons/icons.svg#quotes-green);
+    background-image: url(../icons/quotes-green.svg);
     -webkit-transform: rotate(180deg);
         -ms-transform: rotate(180deg);
             transform: rotate(180deg);
@@ -1146,7 +1146,7 @@ details > summary {
   }
 
   .third__stability-text::after {
-    top: 200px;
+    top: 80%;
   }
 
   .third__small {
@@ -1275,7 +1275,7 @@ details > summary {
   }
 
   .third__stability-text::after {
-    top: 180px;
+    top: 85%;
     right: 50px;
   }
 
